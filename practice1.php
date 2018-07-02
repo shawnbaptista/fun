@@ -3,6 +3,7 @@
 /**
  * Practicing the basics by going through phpenthusiast's articles:
  * https://phpenthusiast.com/object-oriented-php-tutorials
+ * @author shawnbaptista
  **/
 
 class Car {
