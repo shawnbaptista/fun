@@ -45,5 +45,3 @@ $sportsCar1->setModel("Mazda");
 
 // Use another method that the child class inherited from the parent class
 echo $sportsCar1->honk();
-
-// $sportsCar1->honk();
