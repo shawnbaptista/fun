@@ -5,7 +5,7 @@
  * otherwise "Welcome to PHP" will display.
  * 
  * Run the file locally with the following command:
- * php -S localhost:8000 router.php
+ * php -S localhost:8000 fileName.php 
  */
 
 echo $_SERVER['SERVER_NAME']; // localhost
