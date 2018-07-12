@@ -1,6 +1,8 @@
 <?php
 
 /* 
+ * Various testing of $_SERVER and $GLOBALS
+ * 
  * Requests images and displays them if of a specific file type,
  * otherwise "Welcome to PHP" will display.
  * 
