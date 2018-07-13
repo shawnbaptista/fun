@@ -23,4 +23,14 @@ echo "<pre>";
 print_r($GLOBALS);
 echo "</pre>";
 
+// Date and Time
+echo "<pre>";
+echo "date_default_timezone_get(): " . date_default_timezone_get();
+echo "\n";
+echo date_default_timezone_set("America/Los_Angeles");
+echo "\n";
+
+// Display timezone's abbreviation
+echo date_default_timezone_get() . "=>" . date("e") , " => " . date("T");
+echo "</pre>";
 ?>
